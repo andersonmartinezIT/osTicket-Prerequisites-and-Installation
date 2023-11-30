@@ -40,6 +40,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>We will use these files to install osTicket and some of the dependencies. I&rsquo;m using this offline version to make sure everyone is using the same version of all the files :)</p>
 
 <p>First thing to do is to&nbsp; <u>Install / Enable IIS in your Windows computer WITH CGI and Common HTTP Features</u></p>
+<p> 
+<a href="" target="_self" title="><img src="https://postimg.cc/Hrw4ntrL" alt=""></a>
+<p/>
 
 <p>Go to your windows <strong>Control Panel</strong>&nbsp; Then click on <strong>programs </strong>then click below <strong>Programs and Features</strong> where is says <strong>&quot;turn windows features on and off&quot;</strong></p>
 

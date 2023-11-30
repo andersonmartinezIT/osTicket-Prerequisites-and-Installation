@@ -52,13 +52,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>[X] Common HTTP Features</p>
 <p align="center">
-<img src="https://i.postimg.cc/XqC1gC1c/osticket-HTTP-Features.jpg" style="width:500px;height:500px; alt="CGI"/>
+<img src="https://i.postimg.cc/XqC1gC1c/osticket-HTTP-Features.jpg" style="width:500px;height:500px; alt="http"/>
 </p>
 
 <p><u>AND IIS Management Console</u></p>
 
 <p align="center">
-<img src="https://i.postimg.cc/Hs16gjPR/osticket-console.jpg" style="width:500px;height:500px; alt="CGI"/>
+<img src="https://i.postimg.cc/Hs16gjPR/osticket-console.jpg" style="width:500px;height:500px; alt="console"/>
 </p>
 
 <p>Internet Information Services -&gt; Web Management Tools -&gt; IIS Management Console</p>

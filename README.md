@@ -5,7 +5,7 @@ installing open source help desk ticketing system osTicket
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. We will be installing all the necessary piece of software to be able to use osTicket. Which is an open source ticketing system for an IT job.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -18,6 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	<li>Microsoft Azure (Virtual Machines/Compute)</li>
 	<li>Remote Desktop</li>
 	<li>Internet Information Services (IIS)</li>
+	<li>osTicket (open source Ticketing System)</li>
 </ul>
 
 <p>&nbsp;</p>

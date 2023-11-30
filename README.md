@@ -4,7 +4,7 @@ installing open source help desk ticketing system osTicket
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. We will be installing all the necessary piece of software to be able to use osTicket. Which is an open source ticketing system for an IT job.<br />
 
 

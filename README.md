@@ -70,6 +70,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>Download and install the Rewrite Module (rewrite_amd64_en-US.msi)&nbsp;(Google it and download it)</p>
 
 <p><strong>In your windows computer go to &quot;This PC&quot; or&nbsp; &quot;My Computer&quot; then to the C driver (C:\\) and Create the directory (create a folder and name it PHP) C:\PHP </strong></p>
+<p align="center">
+<img src="https://i.postimg.cc/85nx4DpD/osticket-PHP-folder.jpg" style="width:500px;height:350px; alt="php folder"/>
+</p>
 
 <p><strong>Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP </strong></p>
 

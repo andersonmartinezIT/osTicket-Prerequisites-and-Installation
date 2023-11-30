@@ -165,7 +165,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	<li>Connect to the session</li>
 	<li>Create a database called &ldquo;osTicket&rdquo;</li>
 </ol>
-
+<p align="center">
+<img src="https://i.postimg.cc/qR1Vhyhm/osticket-create-new-database.jpg" style="width:500px;height:500px; alt="database"/>
+</p>
 <p><strong>Continue Setting up osticket in the browser </strong></p>
 
 <ol>

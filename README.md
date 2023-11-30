@@ -112,6 +112,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </ol>
 
 <p>Note that some extensions are not enabled</p>
+<p align="center">
+<img src="https://i.postimg.cc/vTw8hWHG/osticket-browse-80.jpg" style="width:500px;height:500px; alt="console"/>
+</p>
 
 <p>Go back to IIS, sites -&gt; Default -&gt; osTicket</p>
 

@@ -153,6 +153,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	<li>Name Helpdesk</li>
 	<li>Default email (receives email from customers)</li>
 </ol>
+<p align="center">
+<img src="https://i.postimg.cc/Fsm3sSgt/osticket-help-desk-name.jpg" style="width:500px;height:500px; alt="help desk name"/>
+</p>
 
 <p><strong>From the Installation Files, download and install HeidiSQL. </strong></p>
 

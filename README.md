@@ -121,6 +121,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>Double-click PHP Manager</p>
 
 <p><strong>Click &ldquo;Enable or disable an extension&rdquo; Enable the following:</strong></p>
+<p align="center">
+<img src="https://i.postimg.cc/gJN4qKKZ/osticket-enable-extension.jpg" style="width:500px;height:350px; alt="php folder"/>
+</p>
 
 <ol>
 	<li>php_imap.dll</li>

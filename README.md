@@ -91,6 +91,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>Click on PHP Manager then click Register PHP from within IIS</p>
 
+<p align="center">
+<img src="https://i.postimg.cc/wM4J3fQw/osticket-PHP-manager.jpg" style="width:500px;height:350px; alt="php folder"/>
+</p>
+
 <p>Reload IIS (Open IIS, Stop and Start the server)</p>
 
 <p><strong>Install osTicket v1.15.8 (Google It)</strong></p>

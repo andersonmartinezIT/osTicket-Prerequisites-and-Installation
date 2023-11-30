@@ -41,7 +41,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>First thing to do is to&nbsp; <u>Install / Enable IIS in your Windows computer WITH CGI and Common HTTP Features</u></p>
 <p align="center">
-<img src="https://i.postimg.cc/7ZcBBsDS/osticket-CGI.jpg" alt="CGI"/>
+<img src="https://i.postimg.cc/7ZcBBsDS/osticket-CGI.jpg" style="width:500px;height:500px; alt="CGI"/>
 </p>
 
 <p>Go to your windows <strong>Control Panel</strong>&nbsp; Then click on <strong>programs </strong>then click below <strong>Programs and Features</strong> where is says <strong>&quot;turn windows features on and off&quot;</strong></p>
